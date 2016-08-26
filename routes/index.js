@@ -80,7 +80,7 @@ router.get('/test', function (req, res, next) {
     var newPostRef = postsRef.push();
     newPostRef.set({
         author: "deadmaufive",
-        title: "how to master node in five steps"
+        title: "me la pelas negs"
     });
 
 // we can also chain the two calls together
